@@ -1,4 +1,3 @@
-<img align="right" alt="coding" width="100%" height="450" src="https://media.licdn.com/dms/image/D4D12AQHN58g4mUfHrA/article-cover_image-shrink_600_2000/0/1679867911154?e=2147483647&v=beta&t=2r9IjTE48NU6a3iSdDC5gP1-hrUcfa0M8y5s3cX_2vw">
 <h1 align="center">Hi 👋, I'm Zulfiqar Ali</h1>
 <h3 align="center">A Passionate Java Full Stack Developer</h3>
 
