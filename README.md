@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Zulfiqar Ali</h1>
 <h3 align="center">A Passionate Java Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zulfiqarkhokhar&label=Profile%20views&color=0e75b6&style=flat" alt="zulfiqarkhokhar" /> </p
-                                                                                                                                                         <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🌱 I’m currently learning **AI With Java Full Stack**
 
